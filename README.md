@@ -1,7 +1,7 @@
 # raspi_tensorflow_install
 ## How to install
-	$> sudo apt-get update
-	$> sudo apt-get upgrade
+	$> sudo apt update
+	$> sudo apt upgrade
 	$> sudo pip install --upgrade pip
 	$> git clone https://github.com/ft-jasong/raspi_tensorflow_install.git && cd raspi_tensorflow_install
 	$> ./pre_install.sh

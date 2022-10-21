@@ -8,6 +8,5 @@
 ### $> ./env_setting.sh
 ### $> pyenv --version
 ### $> pyenv install 3.7.9
-### $> cd ~
 ### $> pyenv global 3.7.9
 ### $> pip3 install tensorflow
